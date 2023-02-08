@@ -236,10 +236,10 @@ margin-top: -40px;
 position: absolute;
 width: 100%;
 height: 100%;
-background: rgba(247,77,101,.9);
+background: rgba(83,83,83,1.00);
 left: 0;
 top: 0;
-opacity: 0;
+opacity: 0%;
 	transition: all 1s;
 
 }
@@ -312,7 +312,7 @@ text-transform: uppercase;
 }
 .cs-btn, .cs-btn:active, .cs-btn:visited, .cs-btn:focus{
 	color: #fff;
-	background-color: #000;
+	background-color: #404040;
 	border-radius: 0px;
 	outline: none;
 	padding: 10px 40px;
@@ -321,8 +321,8 @@ text-transform: uppercase;
 	transition: all 1s;
 }
 .cs-btn:hover{
-	background: #f74d65;
-	border-color: #f74d65;
+	background: #fff;
+	border-color: #000;
 }
 .call_to_action .container{
 	padding-bottom: 60px;
@@ -366,7 +366,7 @@ border: 0px solid #fff;
 }
 .form_submit{
 width: 100%;
-background: #f73b56;
+background: #404040;
 border-radius: 0px;
 color: #fff;
 padding-top: 13px;
